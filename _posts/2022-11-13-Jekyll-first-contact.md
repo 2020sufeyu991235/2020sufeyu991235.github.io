@@ -24,6 +24,7 @@ render_with_liquid: false
 
 # 2._posts&编写博客
 >_posts文件夹专门用于存放我们记录的博客。
+{: .prompt-tip}
 
 - 博客命名方式：年-月-日-标题.md
 - 页首内容：
