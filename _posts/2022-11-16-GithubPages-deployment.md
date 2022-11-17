@@ -11,7 +11,7 @@ tags: [Chirpy]
 
 - 安装Ruby+devkit。(我安装的是rubyinstaller-devkit-2.5.9-1-x64，推荐2.5.9版本，最新版本安装Jekyll有未知的错误)
 - 安装git。(Ruby好像会自带，但自己下一个比较好，后续要用到Git Bash)
-- 安装Jekyll。(gem install jekyll bundle)
+- 安装Jekyll。(gem install jekyll bundler)
 - 建立远程仓库，默认分支名为main或master。(注意后续项目文件要推送到默认分支)
 - 克隆远程仓库到本地，导入Chirpy模板(即已经下载好Chirpy模板文件到本地仓库)，**以下配置在本地仓库路径的cmd命令行完成**：(即在仓库路径栏输入cmd运行)
   - 执行bundle install成功(安装Chirpy需要的依赖文件)
