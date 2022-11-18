@@ -69,6 +69,13 @@ tags: [Layout]
 </el-row>
 ```
 
+>看到这里你可能会疑惑，vue组件的属性有的要加冒号`:`，而有的不用，该如何判断？
+{: .prompt-tip}
+- 加冒号的
+: 属性值为变量或表达式
+- 不加冒号的
+: 属性值为字符串字面量
+
 <br>
 
 ## 响应式布局
@@ -113,7 +120,7 @@ import 'element-ui/lib/theme-chalk/display.css';
 
 <br>
 
-## 总结
+## 速览
 - `<el-row>`
   - gutter：分栏间隔
   - type：布局类型，flex
