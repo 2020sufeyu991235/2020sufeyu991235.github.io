@@ -2,7 +2,7 @@
 title: Vue+ElementUI+Webpack模板搭建项目
 authod: cotes
 date: 2022-11-18 18:17:00 +0800
-categories: [Vue,Element]
+categories: [Element]
 ---
 
 >非完整教程，需有以下配置：
